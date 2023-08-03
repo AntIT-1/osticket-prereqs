@@ -39,7 +39,7 @@ Now that the virtual machine has been created, you can now remote log into it by
 
 
 
-Once in the VM, install/ enable IIS with CGI and common HTTP feartures as well as IIS management console. 
+Once in the VM, install/ enable IIS with CGI and common HTTP feartures as well as IIS management console. This can be found in the control panel/ programs then click "Turn windows features on or off". 
 ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/0c98230e-9edd-42a4-ade2-6c0fe3295b41)
 
 
