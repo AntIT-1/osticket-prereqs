@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Azure Virtual Machine
 - osTicket installation files
-- Hedi SQL
+- Heidi SQL
 
 
 <h2>Installation Steps</h2>
