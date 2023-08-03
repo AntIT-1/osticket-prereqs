@@ -36,8 +36,9 @@ Now that the virtual machine has been created, you can now remote log into it by
   
   ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/3060fa91-4ce1-46fe-a9dc-ce012e87fa0c)
 
-</p>
-<br />
+Once in the VM, install/ enable IIS with CGI and common HTTP feartures as well as IIS management console. 
+![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/0c98230e-9edd-42a4-ade2-6c0fe3295b41)
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
