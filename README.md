@@ -57,18 +57,27 @@ Open IIS Manager and restart the server. Once inside IIS manager go to Sites->De
 ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/0ea9e50e-ee93-45ec-add0-003397d0b203)
 
 
+Go to PHP manage to enable the following extensions. 
+Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
+![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/e49ba3e8-0bcb-424b-a2d6-ad14f2411e79)
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the file to c:\inetpub\wwwroot\osTicket\include\ost-config.php Assign permissions to ost-config.php Disable inheritance->Removeall New Permissions->Everyone->all
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/99e47b89-90b3-422e-a925-8b04dcebf36e)
+
+Now, the initial setup for osTicket can be started by entering username and email.
+![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/b071a992-fb5d-4fc2-bf13-a699cd7f3e68)
+
+Setup osticket in the browser MySQL Database: osTicket MySQL Username: root MySQL Password: Password1. This is the final step for installing osTicket. 
+![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/f409dfd0-f9fd-4634-be6b-34d910ed3bc2)
+
+
+
+
+
+
+
+
+
