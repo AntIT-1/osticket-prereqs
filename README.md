@@ -32,7 +32,10 @@ First step is to install and configure a VM (virtual machine) in Azure portal. T
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now that the virtual machine has been created, you can now remote log into it by copy and paste the public IP address. Click connect and enter the username and password that were assigned to this VM when created in Azure portal. 
+  
+  ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/3060fa91-4ce1-46fe-a9dc-ce012e87fa0c)
+
 </p>
 <br />
 
