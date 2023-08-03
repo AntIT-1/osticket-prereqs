@@ -57,7 +57,7 @@ Open IIS Manager and restart the server. Once inside IIS manager go to Sites->De
 ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/0ea9e50e-ee93-45ec-add0-003397d0b203)
 
 
-Go to PHP manage to enable the following extensions. 
+Go to PHP manager to enable the following extensions. 
 Enable: php_imap.dll
 Enable: php_intl.dll
 Enable: php_opcache.dll
