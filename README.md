@@ -54,6 +54,7 @@ From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zi
 
 Open IIS Manager and restart the server. Once inside IIS manager go to Sites->Default->osTicket on the right, click "Browse*.80" from there your default browser should open osTicket webserver.
 ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/f3123c98-8bc6-4960-9a3d-028fe7f41794)
+![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/0ea9e50e-ee93-45ec-add0-003397d0b203)
 
 
 
