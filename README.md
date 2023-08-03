@@ -43,7 +43,20 @@ Once in the VM, install/ enable IIS with CGI and common HTTP feartures as well a
 ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/0c98230e-9edd-42a4-ade2-6c0fe3295b41)
 
 
-<p>
+
+From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)
+
+Create the directory C:\PHP
+
+From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP. Download and install VC_redist.x86.exe.
+
+![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/07925acb-9bc4-4708-8cb5-56dc62fa365d)
+
+Open IIS Manager and restart the server. Once inside IIS manager go to Sites->Default->osTicket on the right, click "Browse*.80" from there your default browser should open osTicket webserver.
+![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/f3123c98-8bc6-4960-9a3d-028fe7f41794)
+
+
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
