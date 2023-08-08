@@ -73,7 +73,7 @@ Now, the initial setup for osTicket can be started by entering username and emai
 Setup osticket in the browser MySQL Database: osTicket MySQL Username: root MySQL Password: Password1. This is the final step for installing osTicket. 
 ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/f409dfd0-f9fd-4634-be6b-34d910ed3bc2)
 
-Once you enter usernme and password to MySQL database, the intall should be complete. 
+Once you enter username and password to MySQL database, the intall should be complete. 
 ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/9ab61c25-eda2-4bc0-ac0c-ee952d7ceaa5)
 
 
