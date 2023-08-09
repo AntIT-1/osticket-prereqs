@@ -53,6 +53,7 @@ From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zi
 ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/07925acb-9bc4-4708-8cb5-56dc62fa365d)
 
 Open IIS Manager and restart the server. Once inside IIS manager go to Sites->Default->osTicket on the right, click "Browse*.80" from there your default browser should open osTicket webserver.
+
 ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/f3123c98-8bc6-4960-9a3d-028fe7f41794)
 ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/0ea9e50e-ee93-45ec-add0-003397d0b203)
 
@@ -68,12 +69,18 @@ Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the
 ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/99e47b89-90b3-422e-a925-8b04dcebf36e)
 
 Now, the initial setup for osTicket can be started by entering username and email.
+
+
 ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/b071a992-fb5d-4fc2-bf13-a699cd7f3e68)
 
 Setup osticket in the browser MySQL Database: osTicket MySQL Username: root MySQL Password: Password1. This is the final step for installing osTicket. 
+
+
 ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/f409dfd0-f9fd-4634-be6b-34d910ed3bc2)
 
 Once you enter username and password to MySQL database, the intall should be complete. 
+
+
 ![image](https://github.com/AntIT-1/osticket-prereqs/assets/141161539/9ab61c25-eda2-4bc0-ac0c-ee952d7ceaa5)
 
 
